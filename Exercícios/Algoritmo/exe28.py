@@ -1,4 +1,4 @@
-#Ler uma nota (0 - 10), caso inválida repetr entrada
+#Ler uma nota (0 - 10), caso inválida repetir entrada
 
 while True:
     nota = int(input("Nota >> "))
