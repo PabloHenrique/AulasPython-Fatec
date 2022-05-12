@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Leia um número de 3 algarismos menores de 1000 e informe se ele é ascendente
 
 n = int(input("Informe um número: "))
@@ -14,7 +13,7 @@ else:
         print("Ascendente!")
     else:
         print("Não ascendente!")
-=======
+
 #Leia um número de 3 algarismos menores de 1000 e informe se ele é ascendente
 
 n = int(input("Informe um número: "))
@@ -30,4 +29,3 @@ else:
         print("Ascendente!")
     else:
         print("Não ascendente!")
->>>>>>> 2e059de1adf9b45359961e6591dfb9f4ff8fc2fb
