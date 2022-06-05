@@ -5,19 +5,18 @@ Imprima a matriz e mostre a média das temperaturas do mÊs.
 '''
 soma = 0
 from random import randint
-from random import random
 
 M = [0] * 4
 for linha in range (4):
     M[linha] = [0] * 7
     for coluna in range(7):
-        M[linha][coluna] = random()*50
+        M[linha][coluna] = randint(1, 10)
         soma += M[linha][coluna]
 
 print('\nResultado da Matriz: \n')
 for m in range(4):
     for n in range(7):
-        print(f'{M[m][n]:.0002}º', end=' ')
+        print(f'{M[m][n]:02}º', end=' ')
     print()
 
 
