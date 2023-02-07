@@ -5,7 +5,8 @@ chame os respectivos métodos e mostre o resultado.'''
 
 def gerarM(linha, coluna):
   for i in range(linha):
-    for j in
+    for j in range(coluna):
+      M = [i][j]
 
 l = int(input("Total de linhas: "))
 c = int(input("Total de colunas: "))
