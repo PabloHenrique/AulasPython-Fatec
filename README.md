@@ -1,13 +1,23 @@
-# AulasPython-Fatec
-Oláa!
+## AulasPython-Fatec
+Oláa! Bem vindo!
 
-Esse repositório é destinado aos <strong>conteúdos das aulas de Microinformática e Algoritmo</strong> do curso de Análise e Desenvolvimento de Sistemas da Fatec.
-<br><br>Python será a linguagem principal e aqui publicaremos os exercícios realizados durante as aulas.
+<p>Esse repositório é destinado aos <strong>conteúdos das aulas de Microinformática e Algoritmo</strong> do curso de Análise e Desenvolvimento de Sistemas da <a href="https://fatecgarca.cps.sp.gov.br">Fatec</a></p>
+<br><strong>Python</strong> será principal e publicaremos os exercícios relacionados durante as aulas.
 
-Projeto em equipe com @henrique-queiroz
+Projeto em equipe com <a href="https://github.com/HenriqueQueirozz">@henrique-queiroz<a>
+
+## Tecnologias
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+
 
 ## 1° Termo
-<h2> Conhecimentos:</h2>
+<h4> Conhecimentos:</h4>
 <p>Aprendemos a estrutura básica de programação, onde os comandos/instruções são executados um após o outro, na sequência escrita (de cima para baixo) do início ao fim.</p>
 <p>Colocamos em prática estruras de seleção, sendo os:</p>
 
@@ -34,14 +44,18 @@ Projeto em equipe com @henrique-queiroz
 </ul>
 
 ## 2° Termo
-<h2> Conhecimentos:</h2>
+<h4> Conhecimentos:</h4>
+<p> Aprofundamos um pouco mais os conhecimentos. Treinamos e melhoramos o raciocínio lógico com mais exercícios, manipulação de dados e atividades avaliativas.
 <p> Funcionamento de Strings;</p>
-<p> E também, utilizando de blocos de instruções (Funções), aprendemos a mudar o fluxo padrão de nossos programas.</p>
+<p> Utilizamos também blocos de instruções (Funções), para alterar o fluxo padrão de nossos programas e criar sistemas com uma quantidade menor de códigos repetidos.</p>
 
 <ul>
     <li>Métodos e funções para a manipulação de dados;</li>
-    <li>Trabalhando com as Strings</li>
     <li>Criação e chamada de funções (def).</li>
 </ul>
 
 <p> Também, apredemos o uso das varíaveis compostas, conhecidas como <strong>Dicionários</strong> </p>
+
+<h4>Fique a vontade para ver e um pouquinho como foi esse processo de aprendizagem 😊</h4>
+
+<h5>Atualizações futuras: Desenvolver front-end para navegar entre os exercícios e desafios!</h5>
